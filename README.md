@@ -1,8 +1,6 @@
 ![Header](./github-header-image.png)
 
 
-<h1 align="center">Hi 👋, I'm Saurabh Pachpute</h1>
-<h3 align="center">A passionate full stalk java developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJxPDirH_NgPwia57QZRs50LaegyYd444A06xb-TJBx1r39S6vfVdohh5PC6Ei0xzydW0&usqp=CAU">
 
