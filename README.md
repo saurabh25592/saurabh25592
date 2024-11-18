@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh25592&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh25592" /> </p>
 
-- 🌱 I’m currently learning **hibernate**
 
 - 📫 How to reach me **saurabhpachpute25@gmail.com**
 
